@@ -23,9 +23,3 @@ docker-push:
 enter: INTERACT=-it
 enter:
 	$(RUN) bash
-
-clean_slides:
-	rm -f *.html
-
-clean_babynames:
-	rm -f babynames/babynames.csv
