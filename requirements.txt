@@ -1,0 +1,4 @@
+scrapy==1.6.0
+service-identity==18.1.0
+cryptography>=2.1.4
+selenium==3.141.0
